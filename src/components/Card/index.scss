@@ -1,0 +1,9 @@
+@import '../../utils/colors';
+
+.card {
+  height: 559px;
+  width: 361px;
+  border-radius: 30px;
+
+  background-color: $cardBackgroundColor;
+}
