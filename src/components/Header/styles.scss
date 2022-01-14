@@ -1,0 +1,29 @@
+.header {
+  width: 100vw;
+
+  margin-bottom: 17px;
+
+  &-logo {
+    margin-top: 35px;
+    margin-left: 59px;
+    margin-bottom: 0;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+  }
+
+  &-announce {
+    text-align: center;
+    height: 69px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 69px;
+
+    color: white;
+    background-color: black;
+  }
+}

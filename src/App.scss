@@ -1,4 +1,18 @@
 .App {
   display: flex;
+  flex-flow: row wrap;
   justify-content: space-evenly;
+
+  &-search-title {
+    width: 100vw;
+
+    margin-top: 0;
+    margin-left: 72px;
+    margin-bottom: 8px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 45px;
+  }
 }

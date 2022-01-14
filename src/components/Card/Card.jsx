@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 import StarIcon from '../StarIcon';
 
-import './index.scss';
+import './styles.scss';
 
 import {
   setLikeAs,
